@@ -1,2 +1,6 @@
 # Skin-cancer-detection
-A deep learning project for skin cancer detection using HAM10000 Dataset.
+In this project the deep learning model will be developed using Python,Tensorflow
+and Keras API. The problem will be approached using two methods.
+The first method is a hard coded CNN approach and the second
+method a transfer learning approach will be used. The dataset that
+is used to train the models are the HAM10000 dataset
